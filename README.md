@@ -1,2 +1,2 @@
-# button-styles
-Proyecto de botones en HTML y CSS
+# Button Styles
+Proyecto de diferentes estilos de botones en HTML y CSS

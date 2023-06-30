@@ -1,0 +1,363 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    padding: 22px;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 6px 22px 6px 22px;
+    background: transparent;
+    border: 0;
+    color: #989B98;
+    vertical-align: middle;
+    line-height: 1.5;
+    display: inline-block;
+    outline: none;
+    margin: 2px;
+}
+.btn:hover{
+    background: #989B98;
+    color: #fff;
+}
+.btn:active{
+    background: #E1E1E1;
+    border: 1px solid #8D8E8D;
+    color: #989B98;
+}
+/*FIRST WAVE*/
+.primary{
+    background: #0072FF;
+    color: #fff;
+    
+}
+.primary:hover{
+    color: #0072FF;
+    background: #E1E1E1;
+    border: 1px solid #0072FF;
+}
+.primary:active{
+    background: #0265E0;
+    color: #fff;
+    
+}
+.dark{
+    background: #606977;
+    color: #fff;
+}
+.dark:hover{
+    color: #606977;
+    background: #E1E1E1;
+    border: 1px solid #606977;
+}
+.dark:active{
+    background: #535B66;
+    color: #fff;
+}
+.yellow{
+    background: #E5D817;
+    color: #fff;
+}
+.yellow:hover{
+    color: #E5D817;
+    background: #E1E1E1;
+    border: 1px solid #E5D817;
+    
+}
+.yellow:active{
+    background: #D3C716;
+    color: #fff;
+}
+.deep{
+    background: #272537;
+    color: #fff;
+}
+.deep:hover{
+    color: #272537;
+    background: #E1E1E1;
+    border: 1px solid #272537;
+}
+.deep:active{
+    background: #191823;
+    color: #fff;
+}
+.ocean{
+    background: #00C3FF;
+    color: #fff;
+}
+.ocean:hover{
+    color: #00C3FF;
+    background: #E1E1E1;
+    border: 1px solid #00C3FF;
+}
+.ocean:active{
+    background: #01A9DC;
+    color: #fff;
+}
+.orange{
+    background: #FE7235;
+    color: #fff;
+}
+.orange:hover{
+    color: #FE7235;
+    background: #E1E1E1;
+    border: 1px solid #FE7235;
+}
+.orange:active{
+    background: #DB5D26;
+    color: #fff;
+}
+.sunset{
+    background: #E2474B;
+    color: #fff;
+}
+.sunset:hover{
+    color: #E2474B;
+    background: #E1E1E1;
+    border: 1px solid #E2474B;
+}
+.sunset:active{
+    background: #C33A3E;
+    color: #fff;
+}
+.night{
+    background: #406D96;
+    color: #fff;
+}
+.night:hover{
+    color: #406D96;
+    background: #E1E1E1;
+    border: 1px solid #406D96;
+}
+.night:active{
+    background: #385E80;
+    color: #fff;
+}
+.heart{
+    background: #894242;
+    color: #fff;
+}
+.heart:hover{
+    color: #894242;
+    background: #E1E1E1;
+    border: 1px solid #894242;
+}
+.heart:active{
+    background: #713737;
+    color: #fff;
+}
+.brown{
+    background: #60402B;
+    color: #fff;
+}
+.brown:hover{
+    color: #60402B;
+    background: #E1E1E1;
+    border: 1px solid #60402B;
+}
+.brown:active{
+    background: #3B291C;
+    color: #fff;
+}
+.green-black{
+    background: #213502;
+    color: #fff;
+}
+.green-black:hover{
+    color: #213502;
+    background: #E1E1E1;
+    border: 1px solid #213502;
+}
+.green-black:active{
+    background: #131E01;
+    color: #fff;
+}
+.green{
+    background: #7EA00E;
+    color: #fff;
+}
+.green:hover{
+    color: #7EA00E;
+    background: #E1E1E1;
+    border: 1px solid #7EA00E;
+}
+.green:active{
+    background: #67820C;
+    color: #fff;
+}
+/*SECOND WAVE*/
+.circle{    
+    padding: 0px;   
+    border-radius: 50px;    
+    font-size: 15px;
+    width:60px;
+    height:60px;
+    text-align: center;
+}
+
+/*THRID WAVE*/
+.reverse-primary{
+    background: #E1E1E1;
+    color: #0072FF;
+}
+.reverse-primary:hover{
+    color: #E1E1E1;
+    background: #0072FF;
+}
+.reverse-primary:active{
+    color: #0072FF;
+    background: #E1E1E1;
+    border: 1px solid #0072FF;
+}
+.reverse-dark{
+    background: #E1E1E1;
+    color: #606977;
+}
+.reverse-dark:hover{
+    color: #E1E1E1;
+    background: #606977;
+}
+.reverse-dark:active{
+    color: #606977;
+    background: #E1E1E1;
+    border: 1px solid #606977;
+}
+.reverse-yellow{
+    background: #E1E1E1;
+    color: #E5D817;
+}
+.reverse-yellow:hover{
+    color: #E1E1E1;
+    background: #E5D817;
+}
+.reverse-yellow:active{
+    color: #E5D817;
+    background: #E1E1E1;
+    border: 1px solid #E5D817;
+}
+.reverse-deep{
+    background: #E1E1E1;
+    color: #272537;
+}
+.reverse-deep:hover{
+    color: #E1E1E1;
+    background: #272537;
+}
+.reverse-deep:active{
+    color: #272537;
+    background: #E1E1E1;
+    border: 1px solid #272537;
+}
+.reverse-ocean{
+    background: #E1E1E1;
+    color: #00C3FF;
+}
+.reverse-ocean:hover{
+    color: #E1E1E1;
+    background: #00C3FF;
+}
+.reverse-ocean:active{
+    color: #00C3FF;
+    background: #E1E1E1;
+    border: 1px solid #00C3FF;
+}
+.reverse-orange{
+    background: #E1E1E1;
+    color: #FE7235;
+}
+.reverse-orange:hover{
+    color: #E1E1E1;
+    background: #FE7235;
+}
+.reverse-orange:active{
+    color: #FE7235;
+    background: #E1E1E1;
+    border: 1px solid #FE7235;
+}
+.reverse-sunset{
+    background: #E1E1E1;
+    color: #E2474B;
+}
+.reverse-sunset:hover{
+    color: #E1E1E1;
+    background: #E2474B;
+}
+.reverse-sunset:active{
+    color: #E2474B;
+    background: #E1E1E1;
+    border: 1px solid #E2474B;
+}
+.reverse-night{
+    background: #E1E1E1;
+    color: #406D96;
+}
+.reverse-night:hover{
+    color: #E1E1E1;
+    background: #406D96;
+}
+.reverse-night:active{
+    color: #406D96;
+    background: #E1E1E1;
+    border: 1px solid #406D96;
+}
+.reverse-heart{
+    background: #E1E1E1;
+    color: #894242;
+}
+.reverse-heart:hover{
+    color: #E1E1E1;
+    background: #894242;
+}
+.reverse-heart:active{
+    color: #894242;
+    background: #E1E1E1;
+    border: 1px solid #894242;
+}
+.reverse-brown{
+    background: #E1E1E1;
+    color: #60402B;
+}
+.reverse-brown:hover{
+    color: #E1E1E1;
+    background: #60402B;
+}
+.reverse-brown:active{
+    color: #60402B;
+    background: #E1E1E1;
+    border: 1px solid #60402B;
+}
+.reverse-green-black{
+    background: #E1E1E1;
+    color: #213502;
+}
+.reverse-green-black:hover{
+    color: #E1E1E1;
+    background: #213502;
+}
+.reverse-green-black:active{
+    color: #213502;
+    background: #E1E1E1;
+    border: 1px solid #213502;
+}
+.reverse-green{
+    background: #E1E1E1;
+    color: #7EA00E;
+}
+.reverse-green:hover{
+    color: #E1E1E1;
+    background: #7EA00E;
+}
+.reverse-green:active{
+    color: #7EA00E;
+    background: #E1E1E1;
+    border: 1px solid #7EA00E;
+}
+
+/*Icons*/
+.circle > i{
+    font-size: 20px;
+}
+.btn > i{
+    padding: 2px;
+    font-size: 22px;
+}
